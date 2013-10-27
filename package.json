@@ -4,7 +4,7 @@
   "description": "express-validator example",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --repoter spec"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
