@@ -1,0 +1,27 @@
+{
+  "name": "express-validator-example",
+  "version": "0.0.0",
+  "description": "express-validator example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --repoter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/express-validator-example"
+  },
+  "author": "bouzuya",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bouzuya/express-validator-example/issues"
+  },
+  "dependencies": {
+    "express-validator": "~0.8.0",
+    "express": "~3.4.3"
+  },
+  "devDependencies": {
+    "should": "~2.0.2",
+    "mocha": "~1.13.0",
+    "supertest": "~0.8.0"
+  }
+}
